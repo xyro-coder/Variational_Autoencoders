@@ -1,0 +1,3 @@
+vae-building-blocks/data/
+*.gz
+*-ubyte
