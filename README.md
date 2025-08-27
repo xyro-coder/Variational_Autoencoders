@@ -10,3 +10,4 @@
 4. VQ-VAE (Vector Quantized VAE)
 5. Flow-based VAE
 6. Hierarchical / Ladder VAE
+
