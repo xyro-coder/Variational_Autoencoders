@@ -1,8 +1,5 @@
 # -Variational_Autoencoders
 
-
-
-
 # plan finish all these 
 1. Vanilla VAE
 2. β-VAE
@@ -13,4 +10,4 @@
 
 
 in a few weeks hopefully
-![Uploading image.png…]()
+![alt text](![/Users/icarelius/Variational_Autoencoders/Variational_Autoencoders/image-1.png](https://github.com/xyro-coder/Variational_Autoencoders/blob/main/image-1.png))
