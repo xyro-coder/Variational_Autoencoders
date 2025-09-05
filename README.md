@@ -9,5 +9,4 @@
 6. Hierarchical / Ladder VAE
 
 
-in a few weeks hopefully
 ![alt text](https://github.com/xyro-coder/Variational_Autoencoders/blob/main/image-1.png)
