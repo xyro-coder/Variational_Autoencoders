@@ -10,4 +10,4 @@
 
 
 in a few weeks hopefully
-![alt text](![/Users/icarelius/Variational_Autoencoders/Variational_Autoencoders/image-1.png](https://github.com/xyro-coder/Variational_Autoencoders/blob/main/image-1.png))
+![alt text](https://github.com/xyro-coder/Variational_Autoencoders/blob/main/image-1.png)
